@@ -2,5 +2,8 @@
   {
     "package": "pcr",
     "oncran": true
+  },
+  {
+    "package": "target"
   }
 ]
