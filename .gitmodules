@@ -8,6 +8,11 @@
 	url = https://github.com/mahshaaban/pcr
 	shallow = true
 	registered = true
+[submodule "segmenter"]
+	path = segmenter
+	url = https://github.com/mahshaaban/segmenter
+	shallow = true
+	registered = true
 [submodule "target"]
 	path = target
 	url = https://github.com/mahshaaban/target
