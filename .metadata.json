@@ -4,9 +4,6 @@
     "oncran": true
   },
   {
-    "package": "segmenter"
-  },
-  {
     "package": "target"
   }
 ]
