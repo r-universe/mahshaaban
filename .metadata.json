@@ -1,12 +1,12 @@
 [
   {
-    "package": "pcr",
-    "oncran": true
+    "package": "target"
   },
   {
     "package": "segmenter"
   },
   {
-    "package": "target"
+    "package": "pcr",
+    "oncran": true
   }
 ]
