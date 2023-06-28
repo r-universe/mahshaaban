@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "pcr"]
 	path = pcr
 	url = https://github.com/mahshaaban/pcr
-	shallow = true
-	registered = true
 [submodule "segmenter"]
 	path = segmenter
 	url = https://github.com/mahshaaban/segmenter
-	shallow = true
-	registered = true
 [submodule "target"]
 	path = target
 	url = https://github.com/mahshaaban/target
-	shallow = true
-	registered = true
