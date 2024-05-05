@@ -5,9 +5,3 @@
 [submodule "pcr"]
 	path = pcr
 	url = https://github.com/mahshaaban/pcr
-[submodule "segmenter"]
-	path = segmenter
-	url = https://github.com/mahshaaban/segmenter
-[submodule "target"]
-	path = target
-	url = https://github.com/mahshaaban/target
